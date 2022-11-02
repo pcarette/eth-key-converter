@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ethereum-private-key-to-address": "^0.0.7",
+    "install": "^0.13.0",
+    "npm": "^8.19.2"
+  }
+}
